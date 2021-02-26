@@ -5,7 +5,7 @@
 ## Lab 1
 
 ### App Description
-`TODO://` A flashcard app that allows users to test their knowledge on various topics.
+A flashcard app that allows users to test their knowledge on various topics.
 
 ### App Walk-though
 <img src="https://github.com/StanleyAraki/Flashcards/raw/main/flashcards1.gif" width=200><br>
