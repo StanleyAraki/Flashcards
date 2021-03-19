@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ## Lab 3
 
 ### App Description
@@ -6,7 +5,7 @@ A flashcard app that allows users to test their knowledge on various topics.
 
 ### App Walk-though
 
-<img src="YOUR_GIF_URL_HERE" width=200><br>
+<img src="https://github.com/StanleyAraki/Flashcards/raw/main/flashcards3.gif" width=200><br>
 
 ## Required
 - [x] User can browse through multiple flashcards
