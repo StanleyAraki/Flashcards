@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## Lab 3
 
 ### App Description
@@ -16,6 +17,7 @@ A flashcard app that allows users to test their knowledge on various topics.
 - [x] User can edit existing flashcard
 - [x] User can store multiple choice questions
 
+15ea85cfa2076c5f26d1434731744036cb05975e
 ## Lab 2
 
 ### App Description
