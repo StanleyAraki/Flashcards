@@ -6,7 +6,7 @@ A flashcard app that alows users to test their knowledge on various topics.
 
 ### App Walk-though
 
-<img src="https://github.com/StanleyAraki/Flashcards/raw/main/flashcards4.gif" width=200><br>
+<img src="https://github.com/StanleyAraki/Flashcards/raw/main/flashcards5.gif" width=200><br>
 
 ## Required
 - [x] User should see the app icon 
