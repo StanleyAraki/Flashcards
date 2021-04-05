@@ -1,4 +1,3 @@
-<<<<<<< Updated upstream
 =======
 ## Lab 4
 
@@ -7,7 +6,7 @@ A flashcard app that alows users to test their knowledge on various topics.
 
 ### App Walk-though
 
-<img src="YOUR_GIF_URL_HERE" width=200><br>
+<img src="https://github.com/StanleyAraki/Flashcards/raw/main/flashcards4.gif" width=200><br>
 
 ## Required
 - [x] User should see the app icon 
@@ -21,7 +20,6 @@ A flashcard app that alows users to test their knowledge on various topics.
 - [ ] User should see all views properly layout when using the app on a phone of different sizes
 - [ ] Correct answer in multiple choice should be random
 
->>>>>>> Stashed changes
 ## Lab 3
 
 ### App Description
